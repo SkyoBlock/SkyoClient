@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	worktree = C:/Users/gazpr/Desktop/SkyoClient Actions/NewsPanel1/normal
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/SkyoBlock/SkyoClient.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
